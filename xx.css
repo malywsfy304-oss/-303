@@ -1,0 +1,27 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body{
+   
+
+    background-image: linear-gradient(to left,#a7588ecc, #bf6d8883), url(dd.jpg)
+
+}
+
+div{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+input:hover{
+    background-color: rgb(158, 151, 143);
+
+}
+
+
+
+
